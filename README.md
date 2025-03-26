@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Mi Web](https://i.imgur.com/Bz2LMM5.png)](https://juanca.is-a.dev)
+[![Mi Web](https://i.imgur.com/FrGva3b.png)](https://juanca.is-a.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_juancat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juanturcios1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wjuanca_) 
 
 # 💻 Tech Stack:
